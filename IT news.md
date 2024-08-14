@@ -9,3 +9,10 @@ https://n.news.naver.com/mnews/article/243/0000063237
 요약 : LG전자는 AI가 탑재된 가전제품을 알릴 '하우스 오브 서바이벌(Estate of Survival)'을 12일 Amazon Prime(아마존 프라임)에 공개했다. 국내에선 8월 말 LG채널에 공개예정이다. 해당 쇼는 LG가전만의 차별화된 가치를 보여줄 수 있는 새로운 마케팅 캠페인이다.
 
 ___
+***<H5> [Day_02] </H5>***
+
+**<H3> 구글, 스마트폰 AI 비서 '제미나이 라이브' 출시 </H3>**
+
+https://n.news.naver.com/mnews/article/277/0005458890
+
+요약 : 구글(Google)이 안드로폰에 사용 가능한 '제미나이 라이브'를 애플보다 먼저 선보인다.
