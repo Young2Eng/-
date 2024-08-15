@@ -27,3 +27,14 @@ ___
 🔥**English(영어)**
 
 <img src="https://github.com/user-attachments/assets/419be08a-f3d7-4764-aea5-939c4cc3c95e" width="600" height="300" />
+
+___
+
+<H3> Day_03 </H3>
+
+🔥**Korean(한글)**
+
+
+🔥**English(영어)**
+
+<img src="https://github.com/user-attachments/assets/814dbbba-d3f2-4804-86cc-19bb7b9ebf05" width="600" height="300" />
