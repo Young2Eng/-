@@ -34,7 +34,24 @@ ___
 
 🔥**Korean(한글)**
 
+<br>
+<br>
 
 🔥**English(영어)**
 
 <img src="https://github.com/user-attachments/assets/814dbbba-d3f2-4804-86cc-19bb7b9ebf05" width="600" height="300" />
+
+___
+
+<H3> Day_04 </H3>
+
+🔥**Korean(한글)**
+
+<img src="https://github.com/user-attachments/assets/c58347f8-f42d-41d6-a763-e4250fb47554" width="600" height="300" />
+
+<br>
+<br>
+
+🔥**English(영어)**
+
+<img src="https://github.com/user-attachments/assets/9027bd03-26f1-4b3d-b13f-7ad21b470a29" width="600" height="300" />
