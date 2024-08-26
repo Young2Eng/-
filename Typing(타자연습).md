@@ -70,3 +70,17 @@ ____
 🔥**English(영어)**
 
 <img src="https://github.com/user-attachments/assets/6db3abf3-221e-43fa-a65a-922daae8d04c" width="600" height="300" />
+
+_____
+
+<H3> Day_?????? </H3> 8/22
+
+🔥**Korean(한글)**
+
+<br>
+<br>
+
+🔥**English(영어)**
+
+<img src="https://github.com/user-attachments/assets/f1cf7adf-b115-4783-ae4e-7d3175966af1" width="600" height="300" />
+
