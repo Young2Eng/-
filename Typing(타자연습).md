@@ -73,7 +73,7 @@ ____
 
 _____
 
-<H3> Day_?????? </H3> 8/22
+<H3> Day_?????? </H3>
 
 🔥**Korean(한글)**
 
@@ -83,4 +83,18 @@ _____
 🔥**English(영어)**
 
 <img src="https://github.com/user-attachments/assets/f1cf7adf-b115-4783-ae4e-7d3175966af1" width="600" height="300" />
+
+_____
+
+<H3> Day_?????? </H3>
+
+🔥**Korean(한글)**
+
+<br>
+<br>
+
+🔥**English(영어)**
+
+<img src="https://github.com/user-attachments/assets/ef485172-4d0d-4259-96b5-3843b85501da" width="600" height="300" />
+
 
